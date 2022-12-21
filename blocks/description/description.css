@@ -1,0 +1,17 @@
+.description {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  background-color: #F063B826;
+  border-radius: 50px;
+  width: 100%;
+  min-height: 560px;
+  align-items: center;
+}
+
+.description div {
+  margin-left: 62px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
