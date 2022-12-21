@@ -1,0 +1,15 @@
+.header__navigation-list-element {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color: #212353;
+  font-family: 'Avenir';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 160%;
+}
+
+.header__navigation-list-element:hover {
+  font-weight: 500;
+}

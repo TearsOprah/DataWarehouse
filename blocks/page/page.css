@@ -1,0 +1,8 @@
+.page {
+  margin: 0 auto;
+  padding: 0;
+  max-width: 1120px;
+  background: linear-gradient(180deg, #F6FAFD 0%, #FFFFFF 19.4%);
+  border: 1px green solid;
+  color: #212353;
+}
