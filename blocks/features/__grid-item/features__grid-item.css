@@ -1,0 +1,13 @@
+.features__grid-item {
+  margin: 0;
+  padding: 0;
+  height: 358px;
+  width: 540px;
+  border: #9C69E2 1px solid;
+  display: flex;
+  justify-content: space-between;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: right;
+  align-items: center;
+}

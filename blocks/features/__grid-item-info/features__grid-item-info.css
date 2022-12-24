@@ -1,0 +1,11 @@
+.features__grid-item-info {
+  margin: 0 50px 0 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  border: aqua 1px solid;
+  height: 276px;
+  position: relative;
+  width: 220px;
+  gap: 25px;
+}

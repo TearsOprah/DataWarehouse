@@ -3,6 +3,7 @@
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/description/description.css);
+@import url(../blocks/features/features.css);
 
 @import url(../blocks/content/content.css);
 @import url(../blocks/button/button.css);
@@ -17,6 +18,19 @@
 @import url(../blocks/description/__title/description__title.css);
 @import url(../blocks/description/__image/description__image.css);
 @import url(../blocks/description/__paragraph/description__paragraph.css);
+@import url(../blocks/features/__title/features__title.css);
+@import url(../blocks/features/__description/features__description.css);
+@import url(../blocks/features/__grid/features__grid.css);
+@import url(../blocks/features/__grid-item/features__grid-item.css);
+@import url(../blocks/features/__image/features__image.css);
+@import url(../blocks/features/__element-1/features__element-1.css);
+@import url(../blocks/features/__element-2/features__element-2.css);
+@import url(../blocks/features/__element-3/features__element-3.css);
+@import url(../blocks/features/__element-4/features__element-4.css);
+@import url(../blocks/features/__link/features__link.css);
+@import url(../blocks/features/__grid-item-info/features__grid-item-info.css);
+@import url(../blocks/features/__item-description/features__item-description.css);
+@import url(../blocks/features/__item-title/features__item-title.css);
 
 
 @import url(../blocks/button/_type_1/button_type_1.css);
